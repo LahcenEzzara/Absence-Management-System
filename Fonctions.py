@@ -104,4 +104,5 @@ def Liste_Absence_Aujourdhui(Date):
         for row in reader:
             ws.append(row)
 
+            
     wb.save(output_file)
