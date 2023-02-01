@@ -129,6 +129,7 @@ def Rest():
         btn_impression.place(x=340,y=250)
 
 #Afficher l'interface
+
 window.mainloop()
 
 if impression==0:
